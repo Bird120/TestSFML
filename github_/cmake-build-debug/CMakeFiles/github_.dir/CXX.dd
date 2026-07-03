@@ -1,0 +1,5 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/github_.dir/src/main.cpp.o: dyndep
+
+build CMakeFiles/github_.dir/src/calcul.cpp.o: dyndep
+
