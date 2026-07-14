@@ -1,8 +1,0 @@
-//
-// Created by bird on 01/10/25.
-//
-
-#ifndef POPUPMANAGERLAYER_HPP
-#define POPUPMANAGERLAYER_HPP
-
-#endif //POPUPMANAGERLAYER_HPP
