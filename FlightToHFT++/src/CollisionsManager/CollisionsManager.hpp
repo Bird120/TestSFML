@@ -1,8 +1,0 @@
-//
-// Created by bird on 24/07/25.
-//
-
-#ifndef COLLISIONSMANAGER_HPP
-#define COLLISIONSMANAGER_HPP
-
-#endif //COLLISIONSMANAGER_HPP
