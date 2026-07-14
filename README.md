@@ -13,3 +13,6 @@ chmod +x setup.sh
 mkdir build && cd build
 cmake ..
 cmake --build .
+
+#4
+./game
