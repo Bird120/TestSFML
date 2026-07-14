@@ -1,7 +1,0 @@
-# Étape 2 : Configurer CMake en forçant GCC 14
-- name: Configurer CMake
-  run: |
-    cmake -B ${{github.workspace}}/build \
-          -DCMAKE_CXX_COMPILER=g++-14 \
-          -DCMAKE_C_COMPILER=gcc-14 \
-          -DCMAKE_BUILD_TYPE=Release
