@@ -1,8 +1,0 @@
-//
-// Created by bird on 20/07/25.
-//
-
-#ifndef BACKGROUNDMANAGER_HPP
-#define BACKGROUNDMANAGER_HPP
-
-#endif //BACKGROUNDMANAGER_HPP
