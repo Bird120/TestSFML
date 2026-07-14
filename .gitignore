@@ -1,0 +1,11 @@
+# Ignorer le dossier de compilation locale
+/build/
+/.cmake/
+
+# Ignorer les dossiers spécifiques à CLion / IDE
+/.idea/
+/cmake-build-debug/
+/cmake-build-release/
+
+# Fichiers temporaires ou locaux
+*.user
